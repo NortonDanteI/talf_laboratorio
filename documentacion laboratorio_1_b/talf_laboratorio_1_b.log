@@ -1,0 +1,384 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.29)  29 APR 2019 03:39
+entering extended mode
+**./talf_laboratorio_1_b.tex
+(talf_laboratorio_1_b.tex
+LaTeX2e <2018-12-01>
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/04/01 3.28 The Babel package
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/04/01 3.28 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spanish
+.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/04/01 3.28 Babel common definitions
+\babel@savecnt=\count89
+\U@D=\dimen103
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def"
+)
+\bbl@dirlevel=\count90
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count91
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) ("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+ ("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\latin1.def"
+File: latin1.def 2018/08/11 v1.3c Input encoding file
+)) ("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty
+"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics
+.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.d
+ef"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.sty
+"
+\lst@mode=\count92
+\lst@gtempboxa=\box27
+\lst@token=\toks18
+\lst@length=\count93
+\lst@currlwidth=\dimen106
+\lst@column=\count94
+\lst@pos=\count95
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count96
+\lst@lineno=\count97
+\lst@maxwidth=\dimen109
+ ("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.sty
+"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+\c@lstnumber=\count98
+\lst@skipnumbers=\count99
+\lst@framebox=\box28
+)
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.cfg
+"
+File: listings.cfg 2019/02/27 1.8b listings configuration
+))
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+(talf_laboratorio_1_b.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `talf_laboratorio_1_b.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.
+mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen110
+\scratchbox=\box29
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen111
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-bas
+e.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.
+sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefineke
+ys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.st
+y"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.st
+y"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.
+sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.s
+ty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.s
+ty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds
+.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count106
+<logo.png, id=1, 486.1362pt x 486.1362pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 14.
+(pdftex.def)             Requested size: 113.81102pt x 113.80437pt.
+ [1
+
+{C:/Users/Yo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 49.
+ ("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 49.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 51.
+("C:\Users\Yo\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 51.
+<imagen10.png, id=10, 844.95676pt x 400.49625pt>
+File: imagen10.png Graphic file (type png)
+<use imagen10.png>
+Package pdftex.def Info: imagen10.png  used on input line 56.
+(pdftex.def)             Requested size: 170.71652pt x 80.9167pt.
+<imagen12.png, id=11, 840.741pt x 514.3215pt>
+File: imagen12.png Graphic file (type png)
+<use imagen12.png>
+Package pdftex.def Info: imagen12.png  used on input line 61.
+(pdftex.def)             Requested size: 170.71652pt x 104.43205pt.
+
+[1 <./imagen10.png> <./imagen12.png>]
+Overfull \hbox (136.00467pt too wide) in paragraph at lines 115--116
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (136.00467pt too wide) in paragraph at lines 118--119
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (22.00351pt too wide) in paragraph at lines 120--121
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (130.00461pt too wide) in paragraph at lines 121--122
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[2]
+Overfull \hbox (10.00339pt too wide) in paragraph at lines 126--127
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+
+ []
+
+[3]
+<imagen2.png, id=26, 360.1455pt x 275.8305pt>
+File: imagen2.png Graphic file (type png)
+<use imagen2.png>
+Package pdftex.def Info: imagen2.png  used on input line 159.
+(pdftex.def)             Requested size: 293.06346pt x 224.46526pt.
+<imagen3.png, id=27, 524.55975pt x 283.0575pt>
+File: imagen3.png Graphic file (type png)
+<use imagen3.png>
+Package pdftex.def Info: imagen3.png  used on input line 167.
+(pdftex.def)             Requested size: 261.76526pt x 141.25629pt.
+ [4 <./imagen2.png> <./imagen3.png>]
+<imagen4.png, id=31, 445.665pt x 456.5055pt>
+File: imagen4.png Graphic file (type png)
+<use imagen4.png>
+Package pdftex.def Info: imagen4.png  used on input line 176.
+(pdftex.def)             Requested size: 261.76526pt x 268.13084pt.
+ [5 <./imagen4.png>]
+<imagen5.png, id=35, 507.69675pt x 130.68825pt>
+File: imagen5.png Graphic file (type png)
+<use imagen5.png>
+Package pdftex.def Info: imagen5.png  used on input line 185.
+(pdftex.def)             Requested size: 261.76526pt x 67.38196pt.
+<imagen6.png, id=36, 408.92775pt x 560.0925pt>
+File: imagen6.png Graphic file (type png)
+<use imagen6.png>
+Package pdftex.def Info: imagen6.png  used on input line 190.
+(pdftex.def)             Requested size: 256.0748pt x 350.74919pt.
+ [6 <./imagen5.png> <./imagen6.png>]
+<imagen7.png, id=41, 453.49425pt x 345.08925pt>
+File: imagen7.png Graphic file (type png)
+<use imagen7.png>
+Package pdftex.def Info: imagen7.png  used on input line 196.
+(pdftex.def)             Requested size: 261.76526pt x 199.19882pt.
+<imagen8.png, id=42, 413.74574pt x 299.31825pt>
+File: imagen8.png Graphic file (type png)
+<use imagen8.png>
+Package pdftex.def Info: imagen8.png  used on input line 201.
+(pdftex.def)             Requested size: 261.76526pt x 189.37988pt.
+ [7 <./imagen7.png> <./imagen8.png>]
+<imagen9.png, id=46, 411.939pt x 300.52275pt>
+File: imagen9.png Graphic file (type png)
+<use imagen9.png>
+Package pdftex.def Info: imagen9.png  used on input line 207.
+(pdftex.def)             Requested size: 261.76526pt x 190.9628pt.
+ [8 <./imagen9.png>]
+Overfull \hbox (135.00488pt too wide) in paragraph at lines 218--219
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.00366pt too wide) in paragraph at lines 224--225
+[][][][][][][][][][][][] 
+ []
+
+[9]
+<imagen14.png, id=53, 229.45724pt x 283.0575pt>
+File: imagen14.png Graphic file (type png)
+<use imagen14.png>
+Package pdftex.def Info: imagen14.png  used on input line 273.
+(pdftex.def)             Requested size: 261.76526pt x 322.93939pt.
+<imagen15.png, id=54, 330.63525pt x 80.7015pt>
+File: imagen15.png Graphic file (type png)
+<use imagen15.png>
+Package pdftex.def Info: imagen15.png  used on input line 278.
+(pdftex.def)             Requested size: 261.76526pt x 63.89264pt.
+ [10 <./imagen14.png> <./imagen15.png>]
+<imagen16.png, id=58, 855.79726pt x 219.219pt>
+File: imagen16.png Graphic file (type png)
+<use imagen16.png>
+Package pdftex.def Info: imagen16.png  used on input line 284.
+(pdftex.def)             Requested size: 426.79134pt x 109.32489pt.
+
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 284--285
+ [] 
+ []
+
+[11 <./imagen16.png>] (talf_laboratorio_1_b.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 4115 strings out of 492945
+ 57416 string characters out of 3127584
+ 147778 words of memory out of 3000000
+ 7972 multiletter control sequences out of 15000+200000
+ 5158 words of font info for 19 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,5n,32p,372b,1588s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Yo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb><C:/Users/Yo/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/Yo/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Yo/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Yo/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Yo/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Yo/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on talf_laboratorio_1_b.pdf (12 pages, 1304419 bytes).
+PDF statistics:
+ 85 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
